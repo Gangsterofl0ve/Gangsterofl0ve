@@ -1,4 +1,4 @@
-- 👋 Hi,I'm Denner
+- 👋 Hi, I'm Denner
 - 👀 I’m interested in tech in many shapes and forms
 - 🌱 I’m currently learning the basics of coding/full stack development
 - 📫 How to reach me: [Twitter](https://twitter.com/DennerDec)
